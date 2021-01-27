@@ -29,6 +29,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilerDemo", "StringB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAndString", "TextAndString\TextAndString.csproj", "{240438F8-5A0E-44B1-BF6F-736D89E52D32}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C6421EBF-E428-4542-BD90-9E74B113DA44}"
+	ProjectSection(SolutionItems) = preProject
+		Exercise Solutions\Conditionals-Solutions\Conditionals.cs = Exercise Solutions\Conditionals-Solutions\Conditionals.cs
+		..\..\Docs\Arrays-And-Lists-Solutions\Lists.cs = ..\..\Docs\Arrays-And-Lists-Solutions\Lists.cs
+		Exercise Solutions\Loops-Solutions\Loops.cs = Exercise Solutions\Loops-Solutions\Loops.cs
+		Exercise Solutions\Procedural-Programming-Solutions\ProceduralProgramming.cs = Exercise Solutions\Procedural-Programming-Solutions\ProceduralProgramming.cs
+		Exercise Solutions\Working-With-Text-Solutions\Strings.cs = Exercise Solutions\Working-With-Text-Solutions\Strings.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
